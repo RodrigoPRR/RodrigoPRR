@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rodrigo Pámpano, business intelligence Analyst in Diputación de Badajoz
+- 👀 I’m interested in all technologies
+- 🌱 I’m currently learning big data technologies
+- 💞️ I’m looking to collaborate on projects in pentaho
